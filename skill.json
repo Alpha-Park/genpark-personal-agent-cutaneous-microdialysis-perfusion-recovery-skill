@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cutaneous-microdialysis-perfusion-recovery-skill",
+  "version": "1.0.0",
+  "description": "Calculates cutaneous microdialysis in vivo probe extraction fraction, zero-net-flux (ZNF) calibration, and extracellular interstitial fluid metabolite concentrations.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "dermatology",
+    "microdialysis",
+    "interstitial-fluid",
+    "zero-net-flux",
+    "biomarkers",
+    "glucose",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
